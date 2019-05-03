@@ -1,0 +1,295 @@
+cycle 0 starting!
+process 1 going into q0 waiting q!
+Process 1 in Q0 is about to occupy cpu!
+Process 1 burst!
+cycle 0 ended!
+
+cycle 1 starting!
+process 2 going into q1 waiting q!
+Process 1 burst!
+Process 1 scheduled from Q0 has been Preempted!
+cycle 1 ended!
+
+cycle 2 starting!
+process 3 going into q2 waiting q!
+Process 2 in Q1 is about to occupy cpu!
+Process 2 burst!
+cycle 2 ended!
+
+cycle 3 starting!
+Process 2 burst!
+cycle 3 ended!
+
+cycle 4 starting!
+Process 2 burst!
+cycle 4 ended!
+
+cycle 5 starting!
+Process 2 burst!
+cycle 5 ended!
+
+cycle 6 starting!
+Process 2 burst!
+cycle 6 ended!
+
+cycle 7 starting!
+Process 2 burst!
+Process 2 scheduled from Q1 has been Preempted!
+cycle 7 ended!
+
+cycle 8 starting!
+Process 1 in Q1 is about to occupy cpu!
+Process 1 burst!
+cycle 8 ended!
+
+cycle 9 starting!
+Process 1 burst!
+cycle 9 ended!
+
+cycle 10 starting!
+Process 1 burst!
+cycle 10 ended!
+
+cycle 11 starting!
+Process 1 burst!
+cycle 11 ended!
+
+cycle 12 starting!
+Process 1 burst!
+cycle 12 ended!
+
+cycle 13 starting!
+Process 1 burst!
+Process 1 scheduled from Q1 has been Preempted!
+cycle 13 ended!
+
+cycle 14 starting!
+Process 2 from Q2 is going to take cpu
+Process 2 burst!
+Process 2 Cpu Burst Time is over! might sleep!
+cycle 14 ended!
+
+cycle 15 starting!
+Process 1 from Q2 is going to take cpu
+Process 1 burst!
+cycle 15 ended!
+
+cycle 16 starting!
+Process 1 burst!
+Process 1 Cpu Burst Time is over! might sleep!
+cycle 16 ended!
+
+cycle 17 starting!
+Process 3 from Q2 is going to take cpu
+Process 2 I/O burst time ended! going to wake up!
+Process 3 burst!
+cycle 17 ended!
+
+cycle 18 starting!
+Process 3 burst!
+cycle 18 ended!
+
+cycle 19 starting!
+Process 3 burst!
+cycle 19 ended!
+
+cycle 20 starting!
+Process 3 burst!
+Process 3 Cpu Burst Time is over! might sleep!
+cycle 20 ended!
+
+cycle 21 starting!
+Process 2 in Q1 is about to occupy cpu!
+Process 1 I/O burst time ended! going to wake up!
+Process 3 I/O burst time ended! going to wake up!
+Process 2 burst!
+cycle 21 ended!
+
+cycle 22 starting!
+Process 2 burst!
+cycle 22 ended!
+
+cycle 23 starting!
+Process 2 burst!
+cycle 23 ended!
+
+cycle 24 starting!
+Process 2 burst!
+cycle 24 ended!
+
+cycle 25 starting!
+Process 2 burst!
+cycle 25 ended!
+
+cycle 26 starting!
+Process 2 burst!
+Process 2 scheduled from Q1 has been Preempted!
+cycle 26 ended!
+
+cycle 27 starting!
+Process 1 in Q1 is about to occupy cpu!
+Process 1 burst!
+cycle 27 ended!
+
+cycle 28 starting!
+Process 1 burst!
+cycle 28 ended!
+
+cycle 29 starting!
+Process 1 burst!
+cycle 29 ended!
+
+cycle 30 starting!
+Process 1 burst!
+cycle 30 ended!
+
+cycle 31 starting!
+Process 1 burst!
+cycle 31 ended!
+
+cycle 32 starting!
+Process 1 burst!
+Process 1 scheduled from Q1 has been Preempted!
+cycle 32 ended!
+
+cycle 33 starting!
+Process 3 in Q1 is about to occupy cpu!
+Process 3 burst!
+cycle 33 ended!
+
+cycle 34 starting!
+Process 3 burst!
+cycle 34 ended!
+
+cycle 35 starting!
+Process 3 burst!
+cycle 35 ended!
+
+cycle 36 starting!
+Process 3 burst!
+Process 3 Cpu Burst Time is over! might sleep!
+cycle 36 ended!
+
+cycle 37 starting!
+Process 2 from Q2 is going to take cpu
+Process 3 I/O burst time ended! going to wake up!
+Process 2 burst!
+Process 2 Cpu Burst Time is over! might sleep!
+cycle 37 ended!
+
+cycle 38 starting!
+Process 3 in Q0 is about to occupy cpu!
+Process 3 burst!
+cycle 38 ended!
+
+cycle 39 starting!
+Process 3 burst!
+Process 3 scheduled from Q0 has been Preempted!
+cycle 39 ended!
+
+cycle 40 starting!
+Process 3 in Q1 is about to occupy cpu!
+Process 3 burst!
+cycle 40 ended!
+
+cycle 41 starting!
+Process 3 burst!
+Process 3 Cpu Burst Time is over! might sleep!
+Process 3 ended! going to zombie List!
+cycle 41 ended!
+
+cycle 42 starting!
+Process 1 from Q2 is going to take cpu
+Process 1 burst!
+cycle 42 ended!
+
+cycle 43 starting!
+Process 1 burst!
+cycle 43 ended!
+
+cycle 44 starting!
+Process 2 I/O burst time ended! going to wake up!
+Process 1 burst!
+cycle 44 ended!
+
+cycle 45 starting!
+Process 1 burst!
+Process 1 Cpu Burst Time is over! might sleep!
+cycle 45 ended!
+
+cycle 46 starting!
+Process 2 in Q1 is about to occupy cpu!
+Process 2 burst!
+cycle 46 ended!
+
+cycle 47 starting!
+Process 2 burst!
+cycle 47 ended!
+
+cycle 48 starting!
+Process 2 burst!
+Process 2 Cpu Burst Time is over! might sleep!
+Process 2 ended! going to zombie List!
+cycle 48 ended!
+
+cycle 49 starting!
+cycle 49 ended!
+
+cycle 50 starting!
+Process 1 I/O burst time ended! going to wake up!
+cycle 50 ended!
+
+cycle 51 starting!
+Process 1 in Q1 is about to occupy cpu!
+Process 1 burst!
+cycle 51 ended!
+
+cycle 52 starting!
+Process 1 burst!
+cycle 52 ended!
+
+cycle 53 starting!
+Process 1 burst!
+cycle 53 ended!
+
+cycle 54 starting!
+Process 1 burst!
+cycle 54 ended!
+
+cycle 55 starting!
+Process 1 burst!
+cycle 55 ended!
+
+cycle 56 starting!
+Process 1 burst!
+Process 1 scheduled from Q1 has been Preempted!
+cycle 56 ended!
+
+cycle 57 starting!
+Process 1 from Q2 is going to take cpu
+Process 1 burst!
+cycle 57 ended!
+
+cycle 58 starting!
+Process 1 burst!
+cycle 58 ended!
+
+cycle 59 starting!
+Process 1 burst!
+cycle 59 ended!
+
+cycle 60 starting!
+Process 1 burst!
+Process 1 Cpu Burst Time is over! might sleep!
+Process 1 ended! going to zombie List!
+cycle 60 ended!
+
+*************  Process reports  *************
+---------------------------------------------
+Process 3's TT: 41	 WT: 26
+Process 2's TT: 48	 WT: 21
+Process 1's TT: 60	 WT: 21
+---------------------------------------------
+Process Count: 3
+Average TT: 49.67	 Average WT: 22.67
+---------------------------------------------
